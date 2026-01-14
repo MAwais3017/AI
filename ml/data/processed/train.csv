@@ -1,0 +1,805 @@
+image_path,label
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\5_VI-shingles (23).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (110).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (63).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\53_PA-cutaneous-larva-migrans (54).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (85).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (34).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\106_FU-ringworm (54).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (23).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\31_PA-cutaneous-larva-migrans (46).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\138_VI-chickenpox (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\24_PA-cutaneous-larva-migrans (4).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (82).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\117_VI-shingles (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\16_BA-impetigo (5).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\52_PA-cutaneous-larva-migrans (54).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\49_VI-shingles (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_29_855.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (19).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\121_PA-cutaneous-larva-migrans (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\103_VI-chickenpox (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\111_FU-ringworm (8).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\102_VI-chickenpox (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (7).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_7_4864.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (44).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\36_FU-ringworm (59).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\18_FU-ringworm (10).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\26_PA-cutaneous-larva-migrans (52).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_004.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_31_3154.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\97_VI-shingles (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (60).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_017.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\97_VI-chickenpox (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\126_VI-shingles (31).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\75_VI-shingles (32).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (137).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (113).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\35_VI-chickenpox (1).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\156_VI-chickenpox (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_007.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_6_3568.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\57_FU-ringworm (27).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\84_PA-cutaneous-larva-migrans (6).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\115_PA-cutaneous-larva-migrans (35).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\101_VI-chickenpox (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (6).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_62_7645.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\15_VI-shingles (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (87).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\79_VI-chickenpox (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\54_FU-ringworm (42).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (97).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\85_BA-impetigo (74).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_000.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\103_FU-ringworm (30).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\64_VI-chickenpox (17).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\42_PA-cutaneous-larva-migrans (48).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_9_8553.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\63_VI-shingles (18).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_037.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\65_VI-shingles (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\82_VI-chickenpox (17).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\87_PA-cutaneous-larva-migrans (32).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\43_PA-cutaneous-larva-migrans (45).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_64_3121.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\18_PA-cutaneous-larva-migrans (57).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\21_BA-impetigo (64).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\28_FU-ringworm (10).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\159_VI-shingles (7).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_42_6107.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_037.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (91).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (11).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\61_PA-cutaneous-larva-migrans (32).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\70_VI-chickenpox (17).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_68_1057.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_8_5946.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\111_VI-shingles (8).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\84_VI-shingles (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (91).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\119_VI-chickenpox (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\5_VI-chickenpox (1).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_71_1248.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\74_FU-ringworm (4).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\13_VI-chickenpox (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_50_4949.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_021.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\42_VI-chickenpox (1).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\4_VI-shingles (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_66_2991.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\51_VI-chickenpox (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (21).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (97).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\129_VI-chickenpox (25).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (93).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_008.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (145).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_61_481.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\131_VI-chickenpox (8).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\8_BA-impetigo (27).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\7_FU-ringworm (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_60_6886.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (60).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\97_FU-ringworm (24).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\78_FU-ringworm (55).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\100_FU-ringworm (59).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\72_VI-chickenpox (27).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_006.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (94).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_41_7943.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_50_7991.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\71_VI-shingles (4).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\77_VI-chickenpox (2).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_036.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\34_VI-chickenpox (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (125).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\133_VI-shingles (26).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\63_FU-ringworm (18).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_030.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\45_VI-chickenpox (5).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (95).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\145_VI-chickenpox (8).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\108_VI-chickenpox (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (49).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\33_VI-chickenpox (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (27).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (69).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\90_FU-ringworm (32).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\24_VI-chickenpox (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\77_VI-shingles (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_30_3413.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (123).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\75_BA-impetigo (28).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_69_916.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\76_BA-impetigo (65).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\99_FU-ringworm (39).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\28_VI-shingles (27).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\144_VI-shingles (5).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\10_VI-shingles (24).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (42).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\35_BA-impetigo (10).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\10_FU-ringworm (70).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\78_BA-impetigo (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\33_FU-ringworm (72).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\155_VI-chickenpox (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\24_BA-impetigo (67).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (54).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\34_PA-cutaneous-larva-migrans (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\39_BA-impetigo (55).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\1_VI-shingles (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\150_VI-chickenpox (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_19_4882.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\96_FU-ringworm (54).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\9_PA-cutaneous-larva-migrans (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_36_8244.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\140_VI-shingles (6).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (4).png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\60_FU-ringworm (10).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_023.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (84).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\163_VI-chickenpox (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_28_3666.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\127_VI-chickenpox (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (66).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\100_VI-chickenpox (2).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (19).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\15_PA-cutaneous-larva-migrans (42).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\112_VI-shingles (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\71_BA-impetigo (55).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\20_VI-shingles (17).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\94_VI-chickenpox (24).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\43_FU-ringworm (73).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (51).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\49_VI-chickenpox (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\123_VI-chickenpox (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (96).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (39).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\116_PA-cutaneous-larva-migrans (3).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_0_9676.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_028.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\63_PA-cutaneous-larva-migrans (54).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\148_VI-chickenpox (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\90_VI-shingles (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\81_VI-shingles (7).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\122_VI-shingles (25).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_45_4671.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (72).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_003.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_4_7201.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (65).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (3).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (52).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (92).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (107).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (59).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (62).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\0_BA-impetigo (88).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\17_BA-impetigo (66).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_22_5416.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\35_PA-cutaneous-larva-migrans (46).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\115_VI-chickenpox (27).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_18_8327.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\149_VI-chickenpox (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\57_VI-chickenpox (7).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\141_VI-shingles (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_41_7282.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\128_VI-chickenpox (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\107_PA-cutaneous-larva-migrans (1).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_005.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (74).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\96_VI-shingles (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\46_BA-impetigo (53).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (100).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\3_FU-ringworm (65).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\47_VI-chickenpox (25).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\30_FU-ringworm (44).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_2_1084.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_14_3081.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\3_PA-cutaneous-larva-migrans (4).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_019.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\82_PA-cutaneous-larva-migrans (68).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (6).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\137_VI-chickenpox (3).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (17).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (85).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\67_VI-shingles (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_034.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_035.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_021.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (72).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\117_VI-chickenpox (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (57).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (10).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\49_FU-ringworm (9).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\87_BA-impetigo (62).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\54_BA-impetigo (36).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (108).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\26_VI-chickenpox (23).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\21_VI-shingles (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (143).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\74_BA-impetigo (82).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\108_FU-ringworm (23).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\106_VI-chickenpox (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\26_VI-shingles (1).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (76).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\92_VI-shingles (30).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (62).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (25).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_005.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_68_7583.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_000.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_56_1344.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_66_4500.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (140).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_031.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\91_PA-cutaneous-larva-migrans (28).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\154_VI-chickenpox (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_25_16.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (6).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (18).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\132_VI-chickenpox (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\25_BA-impetigo (48).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (1).png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (55).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (102).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\5_BA-impetigo (27).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\11_VI-shingles (28).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\50_PA-cutaneous-larva-migrans (46).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_12_278.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (3).png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\59_PA-cutaneous-larva-migrans (32).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_020.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_71_9396.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\91_VI-shingles (7).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\135_VI-chickenpox (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\49_PA-cutaneous-larva-migrans (47).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_032.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (8).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\121_VI-shingles (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\64_PA-cutaneous-larva-migrans (64).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\67_BA-impetigo (1).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (16).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_24_573.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\77_PA-cutaneous-larva-migrans (64).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_60_3146.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_23_4269.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\108_PA-cutaneous-larva-migrans (62).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\54_VI-shingles (34).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (95).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (65).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\20_FU-ringworm (11).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\64_VI-shingles (1).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\47_BA-impetigo (25).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_031.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\162_VI-shingles (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (3).png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (136).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (54).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (8).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\19_FU-ringworm (68).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_39_4981.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (90).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\17_VI-shingles (27).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (4).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (28).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_018.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\46_VI-chickenpox (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\7_PA-cutaneous-larva-migrans (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_7_7926.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\85_FU-ringworm (61).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (33).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (79).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\68_FU-ringworm (55).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\27_FU-ringworm (30).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\102_VI-shingles (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\109_FU-ringworm (47).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_004.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (117).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_026.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_015.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (92).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\37_FU-ringworm (25).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_1_4487.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_9_1492.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (88).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\26_FU-ringworm (66).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (142).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\12_FU-ringworm (10).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\80_VI-shingles (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\48_BA-impetigo (17).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\50_VI-shingles (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\14_BA-impetigo (5).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\45_PA-cutaneous-larva-migrans (1).png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\68_BA-impetigo (86).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (6).png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\93_PA-cutaneous-larva-migrans (5).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\58_FU-ringworm (58).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (153).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\129_VI-shingles (10).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_036.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_59_3996.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\38_FU-ringworm (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (77).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\7_VI-shingles (32).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\135_VI-shingles (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_020.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\59_VI-chickenpox (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (4).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\99_VI-chickenpox (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (79).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\83_BA-impetigo (67).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (150).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (80).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\120_PA-cutaneous-larva-migrans (44).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\63_VI-chickenpox (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\22_FU-ringworm (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (6).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_0_942.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\103_VI-shingles (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\59_FU-ringworm (64).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\10_PA-cutaneous-larva-migrans (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\2_FU-ringworm (24).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_53_2547.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\76_VI-chickenpox (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\14_PA-cutaneous-larva-migrans (23).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_006.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_010.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\25_FU-ringworm (10).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\6_BA-impetigo (19).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\69_FU-ringworm (26).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (64).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\29_PA-cutaneous-larva-migrans (4).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\92_FU-ringworm (45).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\100_PA-cutaneous-larva-migrans (3).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_8_8908.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_65_6128.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\83_VI-shingles (33).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\27_PA-cutaneous-larva-migrans (3).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\112_PA-cutaneous-larva-migrans (1).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (68).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_16_7935.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_65_1313.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\88_FU-ringworm (57).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\60_PA-cutaneous-larva-migrans (65).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_27_9420.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\41_VI-chickenpox (2).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\20_BA-impetigo (50).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\94_BA-impetigo (6).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (51).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\70_FU-ringworm (8).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (35).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\37_VI-shingles (25).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (35).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (77).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\66_BA-impetigo (1).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (5).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\114_PA-cutaneous-larva-migrans (59).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\24_VI-shingles (28).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\60_VI-shingles (3).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\23_PA-cutaneous-larva-migrans (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (130).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\151_VI-chickenpox (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\40_PA-cutaneous-larva-migrans (64).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (128).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (83).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (3).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\90_VI-chickenpox (26).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (13).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\73_BA-impetigo (3).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\70_PA-cutaneous-larva-migrans (28).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\165_VI-chickenpox (8).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\32_PA-cutaneous-larva-migrans (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_70_9970.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\112_VI-chickenpox (10).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\102_PA-cutaneous-larva-migrans (57).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\23_VI-shingles (4).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\110_FU-ringworm (47).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\32_BA-impetigo (85).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (5).png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\48_VI-chickenpox (17).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\136_VI-chickenpox (27).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_002.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\131_VI-shingles (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\8_PA-cutaneous-larva-migrans (18).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\38_PA-cutaneous-larva-migrans (19).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\140_VI-chickenpox (27).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (120).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (93).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (121).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_36_5614.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\144_VI-chickenpox (19).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\118_VI-chickenpox (18).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\98_PA-cutaneous-larva-migrans (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\73_VI-shingles (19).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\41_PA-cutaneous-larva-migrans (4).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\55_FU-ringworm (66).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\91_VI-chickenpox (3).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\86_BA-impetigo (26).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (82).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_011.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\65_FU-ringworm (63).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (71).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (38).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (12).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_038.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_018.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (10).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (149).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_034.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_15_9001.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (71).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (89).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\155_VI-shingles (7).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\93_BA-impetigo (71).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\38_BA-impetigo (60).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\3_VI-shingles (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_35_609.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_022.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (4).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\94_PA-cutaneous-larva-migrans (63).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\109_PA-cutaneous-larva-migrans (34).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (48).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (78).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_029.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_58_842.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\58_BA-impetigo (18).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_58_6693.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\62_PA-cutaneous-larva-migrans (56).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (151).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (2).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_47_4941.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_011.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (1).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\0_VI-shingles (28).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\79_VI-shingles (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (30).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\62_VI-chickenpox (19).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\146_VI-shingles (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\30_BA-impetigo (4).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\76_PA-cutaneous-larva-migrans (4).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_19_2596.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\85_VI-shingles (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\0_FU-ringworm (38).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\84_BA-impetigo (65).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\67_PA-cutaneous-larva-migrans (19).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (14).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (36).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\99_PA-cutaneous-larva-migrans (4).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\119_VI-shingles (24).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_016.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\109_VI-shingles (27).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\160_VI-chickenpox (5).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (7).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\24_FU-ringworm (39).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (75).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\61_VI-shingles (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\29_FU-ringworm (30).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (112).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\7_VI-chickenpox (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (47).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\86_VI-shingles (25).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\20_PA-cutaneous-larva-migrans (31).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\12_VI-shingles (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\11_VI-chickenpox (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\63_BA-impetigo (33).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_34_238.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (126).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (8).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (89).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\89_VI-chickenpox (26).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\34_FU-ringworm (9).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\1_VI-chickenpox (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\147_VI-chickenpox (25).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (114).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\43_BA-impetigo (78).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (59).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (68).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\17_FU-ringworm (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_11_2944.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_22_5524.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_014.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\108_VI-shingles (8).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\110_VI-chickenpox (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\45_BA-impetigo (37).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\6_FU-ringworm (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_019.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\104_FU-ringworm (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\157_VI-chickenpox (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\58_PA-cutaneous-larva-migrans (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\6_PA-cutaneous-larva-migrans (3).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (80).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (111).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\113_VI-shingles (4).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\79_FU-ringworm (33).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\13_FU-ringworm (9).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_012.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\31_VI-chickenpox (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (8).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\101_FU-ringworm (6).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (61).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_38_5107.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (1).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\83_PA-cutaneous-larva-migrans (49).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (41).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_032.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_009.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (7).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (46).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (7).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_030.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_033.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\40_VI-shingles (23).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (152).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_027.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\55_PA-cutaneous-larva-migrans (56).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\6_VI-shingles (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (24).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (78).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\122_PA-cutaneous-larva-migrans (35).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_48_7656.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\76_VI-shingles (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\66_FU-ringworm (62).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\14_VI-shingles (18).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_012.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_43_3043.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\39_PA-cutaneous-larva-migrans (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\146_VI-chickenpox (17).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (18).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (50).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_4_1433.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (67).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\48_VI-shingles (24).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\53_BA-impetigo (42).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\41_FU-ringworm (1).png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_026.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\43_VI-chickenpox (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (57).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (122).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (141).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\167_VI-chickenpox (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\62_VI-shingles (30).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_1_3035.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (81).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_023.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\56_VI-shingles (31).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\58_VI-shingles (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_26_1769.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\22_PA-cutaneous-larva-migrans (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (23).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\69_VI-shingles (3).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (127).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (49).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\91_BA-impetigo (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_27_7800.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (98).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\19_VI-chickenpox (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\96_VI-chickenpox (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\58_VI-chickenpox (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\130_VI-shingles (4).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_017.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (5).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_014.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\38_VI-chickenpox (3).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (99).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\68_VI-shingles (10).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\46_PA-cutaneous-larva-migrans (62).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_46_7142.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\71_VI-chickenpox (8).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (96).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_27_2601.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (53).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (53).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\36_VI-shingles (30).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\50_VI-chickenpox (24).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\28_PA-cutaneous-larva-migrans (54).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\99_BA-impetigo (45).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\104_VI-chickenpox (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\139_VI-chickenpox (1).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\27_VI-chickenpox (2).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\97_BA-impetigo (58).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\114_VI-chickenpox (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\4_BA-impetigo (34).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\17_PA-cutaneous-larva-migrans (65).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_038.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\84_FU-ringworm (9).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (45).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_007.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\35_VI-shingles (34).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\92_BA-impetigo (46).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\45_FU-ringworm (21).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\116_VI-shingles (3).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\87_VI-shingles (6).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\126_VI-chickenpox (26).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\156_VI-shingles (2).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_24_2604.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\120_VI-shingles (29).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\12_BA-impetigo (89).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\57_PA-cutaneous-larva-migrans (56).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_12_7199.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_54_5205.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\141_VI-chickenpox (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\23_BA-impetigo (43).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (3).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_52_5442.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\95_FU-ringworm (29).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_37_3886.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_029.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (129).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\19_BA-impetigo (4).png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_71_5722.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\123_VI-shingles (17).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\80_PA-cutaneous-larva-migrans (35).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\159_VI-chickenpox (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_013.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\55_VI-shingles (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\104_VI-shingles (19).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\52_FU-ringworm (63).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\88_PA-cutaneous-larva-migrans (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_34_4460.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\96_PA-cutaneous-larva-migrans (50).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\80_FU-ringworm (44).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\32_VI-shingles (31).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\47_PA-cutaneous-larva-migrans (38).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_10_784.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\128_VI-shingles (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_009.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\30_PA-cutaneous-larva-migrans (1).png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\88_VI-chickenpox (6).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (76).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\28_VI-chickenpox (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_024.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\22_VI-shingles (3).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (90).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_18_210.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (45).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_54_1452.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\79_BA-impetigo (2).png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (10).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\12_PA-cutaneous-larva-migrans (23).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (47).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\51_BA-impetigo (71).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\34_BA-impetigo (40).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\4_VI-chickenpox (2).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\125_VI-shingles (25).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\3_BA-impetigo (77).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (73).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (94).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_61_4215.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (44).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\46_FU-ringworm (46).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\89_PA-cutaneous-larva-migrans (66).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (33).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\20_VI-chickenpox (5).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_61_460.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\110_PA-cutaneous-larva-migrans (54).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_29_3187.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_57_8539.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\56_BA-impetigo (3).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\153_VI-shingles (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\65_VI-chickenpox (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\23_FU-ringworm (53).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_015.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\105_VI-shingles (5).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (42).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_7_5618.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\142_VI-chickenpox (5).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_3_6280.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (29).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\55_VI-chickenpox (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\57_BA-impetigo (6).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_14_7110.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\152_VI-chickenpox (18).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (26).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (37).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_18_3929.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\52_VI-chickenpox (3).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\44_VI-chickenpox (4).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (48).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_010.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\98_FU-ringworm (53).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (39).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\102_FU-ringworm (64).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\107_VI-shingles (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\72_FU-ringworm (12).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\118_PA-cutaneous-larva-migrans (19).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\96_BA-impetigo (17).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\75_PA-cutaneous-larva-migrans (44).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (32).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_46_5785.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\65_BA-impetigo (3).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (10).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\51_FU-ringworm (46).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_55_5623.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\19_PA-cutaneous-larva-migrans (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\97_PA-cutaneous-larva-migrans (11).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (28).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\5_FU-ringworm (38).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (101).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\18_VI-chickenpox (1).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (118).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\151_VI-shingles (1).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (67).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_028.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_022.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_039.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (1).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\153_VI-chickenpox (19).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\93_FU-ringworm (8).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\65_PA-cutaneous-larva-migrans (64).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\33_VI-shingles (16).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\53_VI-shingles (9).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\98_VI-shingles (3).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\37_VI-chickenpox (24).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\2_VI-chickenpox (8).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_29_9524.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\1_FU-ringworm (72).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\85_VI-chickenpox (19).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (70).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (22).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (29).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (5).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\33_BA-impetigo (53).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\101_VI-shingles (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_63_3224.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\82_VI-shingles (15).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\38_VI-shingles (30).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\8_VI-chickenpox (1).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (25).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_001.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\55_BA-impetigo (10).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\7_BA-impetigo (56).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\80_BA-impetigo (48).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\69_VI-chickenpox (14).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\30_VI-shingles (20).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_35_8216.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (43).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_024.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\39_VI-shingles (13).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (31).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\46_VI-shingles (10).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\77_BA-impetigo (47).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\41_VI-shingles (1).jpeg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_035.png,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\69_BA-impetigo (54).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\88_VI-shingles (28).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (133).jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_025.png,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\67_VI-chickenpox (12).jpg,infected

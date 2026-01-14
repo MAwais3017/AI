@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Wound Infection API</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        input[type="file"] {
+            margin: 20px 0;
+            padding: 10px;
+        }
+        button {
+            background: #4CAF50;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background: #45a049;
+        }
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        #result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 4px;
+            white-space: pre-wrap;
+        }
+        .success {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+        }
+        .error {
+            background: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+        }
+        .loading {
+            background: #d1ecf1;
+            border: 1px solid #bee5eb;
+            color: #0c5460;
+        }
+    </style>
+</head>
+<body>
+    <h1>Test Wound Infection Prediction API</h1>
+    <p>Select an image file and click "Predict" to test the API.</p>
+    
+    <input type="file" id="fileInput" accept="image/*" />
+    <br>
+    <button id="predictBtn" onclick="predict()">Predict</button>
+    
+    <div id="result"></div>
+
+    <script>
+        async function predict() {
+            const fileInput = document.getElementById('fileInput');
+            const resultDiv = document.getElementById('result');
+            const predictBtn = document.getElementById('predictBtn');
+            
+            if (!fileInput.files || fileInput.files.length === 0) {
+                resultDiv.className = 'error';
+                resultDiv.textContent = 'Please select an image file first!';
+                return;
+            }
+            
+            const file = fileInput.files[0];
+            const formData = new FormData();
+            formData.append('file', file);
+            
+            resultDiv.className = 'loading';
+            resultDiv.textContent = 'Sending request...';
+            predictBtn.disabled = true;
+            
+            try {
+                const response = await fetch('http://localhost:3000/image/predict', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    resultDiv.className = 'success';
+                    let resultText = 'Success!\n\n';
+                    resultText += 'Risk Level: ' + data.riskLevel + '\n';
+                    resultText += 'Probabilities:\n';
+                    resultText += '  Healthy: ' + (data.probabilities.healthy * 100).toFixed(1) + '%\n';
+                    resultText += '  Infected: ' + (data.probabilities.infected * 100).toFixed(1) + '%\n\n';
+                    if (data.recommendation) {
+                        resultText += 'Recommendation:\n';
+                        resultText += data.recommendation + '\n\n';
+                    }
+                    resultText += 'Full JSON:\n' + JSON.stringify(data, null, 2);
+                    resultDiv.textContent = resultText;
+                } else {
+                    resultDiv.className = 'error';
+                    resultDiv.textContent = 'Error: ' + JSON.stringify(data, null, 2);
+                }
+            } catch (error) {
+                resultDiv.className = 'error';
+                resultDiv.textContent = 'Network error: ' + error.message;
+            } finally {
+                predictBtn.disabled = false;
+            }
+        }
+    </script>
+</body>
+</html>
+

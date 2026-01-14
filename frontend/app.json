@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "WoundInfectionApp",
+    "slug": "wound-infection-app",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E8F4F8"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to analyze wound images.",
+          "cameraPermission": "The app accesses your camera to capture wound images."
+        }
+      ]
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
