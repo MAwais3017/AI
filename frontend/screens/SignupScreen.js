@@ -125,7 +125,6 @@ export default function SignupScreen({ navigation }) {
         <ScrollView
           contentContainerStyle={styles.scrollContent}
           showsVerticalScrollIndicator={false}
-          bounces={true}
         >
           <View style={styles.content}>
             <View style={styles.header}>

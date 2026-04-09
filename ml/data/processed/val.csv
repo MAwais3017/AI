@@ -1,201 +1,1089 @@
 image_path,label
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (56).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\36_PA-cutaneous-larva-migrans (60).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (46).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_20_6229.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (11).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\48_FU-ringworm (18).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\82_BA-impetigo (16).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_45_4318.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\113_PA-cutaneous-larva-migrans (51).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\74_VI-chickenpox (26).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\84_VI-chickenpox (7).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\72_VI-shingles (32).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_3_3279.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (9).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\36_BA-impetigo (30).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_033.png,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (105).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (4).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (2).png,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\130_VI-chickenpox (11).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_16_3189.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (86).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\95_VI-shingles (1).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\37_PA-cutaneous-larva-migrans (26).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_51_6878.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\78_VI-chickenpox (13).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\95_PA-cutaneous-larva-migrans (42).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\123_PA-cutaneous-larva-migrans (16).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\39_FU-ringworm (16).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\81_PA-cutaneous-larva-migrans (39).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\90_PA-cutaneous-larva-migrans (4).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\23_VI-chickenpox (10).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_17_7655.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_001.png,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\70_BA-impetigo (51).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\85_PA-cutaneous-larva-migrans (12).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\92_VI-chickenpox (10).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\150_VI-shingles (31).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (131).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (132).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\134_VI-shingles (18).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\44_VI-shingles (3).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_49_8033.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (109).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (116).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\6_VI-chickenpox (3).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\95_BA-impetigo (4).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (7).png,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_32_5553.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\40_BA-impetigo (66).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_53_4789.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\21_VI-chickenpox (1).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\116_VI-chickenpox (1).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (38).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\78_PA-cutaneous-larva-migrans (5).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\66_VI-chickenpox (8).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_37_3778.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_43_49.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\26_BA-impetigo (73).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\71_FU-ringworm (50).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\54_VI-chickenpox (20).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\11_FU-ringworm (10).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\79_PA-cutaneous-larva-migrans (27).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (2).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\33_PA-cutaneous-larva-migrans (40).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_13_8842.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\52_VI-shingles (5).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (1).png,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\112_FU-ringworm (1).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\22_VI-chickenpox (24).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\48_PA-cutaneous-larva-migrans (64).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\37_BA-impetigo (7).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\36_VI-chickenpox (11).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\101_PA-cutaneous-larva-migrans (60).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\90_BA-impetigo (45).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\45_VI-shingles (21).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\3_VI-chickenpox (17).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\81_BA-impetigo (43).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\11_BA-impetigo (77).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (43).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\91_FU-ringworm (1).png,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\157_VI-shingles (34).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\52_BA-impetigo (17).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (146).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (81).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_2_2798.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_40_9698.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\86_FU-ringworm (10).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\105_FU-ringworm (6).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\1_BA-impetigo (60).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (103).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_72_6861.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\169_VI-chickenpox (8).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_69_1965.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\8_FU-ringworm (7).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_49_3358.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\73_VI-chickenpox (6).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_63_2055.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_44_3646.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (61).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_13_1336.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (19).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (9).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\74_PA-cutaneous-larva-migrans (55).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\9_FU-ringworm (70).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\16_PA-cutaneous-larva-migrans (68).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\43_VI-shingles (31).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\44_BA-impetigo (11).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\134_VI-chickenpox (3).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\162_VI-chickenpox (2).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_008.png,healthy
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\51_PA-cutaneous-larva-migrans (12).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\120_VI-chickenpox (3).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\19_VI-shingles (13).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\113_VI-chickenpox (26).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\154_VI-shingles (6).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\2_VI-shingles (17).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (15).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\34_VI-shingles (3).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\68_VI-chickenpox (3).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_72_6223.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\15_BA-impetigo (38).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\15_FU-ringworm (54).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_5_6910.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (138).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\10_VI-chickenpox (27).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (1).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (26).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_23_8739.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\105_PA-cutaneous-larva-migrans (47).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (70).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_38_3898.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (2).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_039.png,healthy
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\56_FU-ringworm (47).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (24).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (37).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\1_PA-cutaneous-larva-migrans (4).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_21_9438.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_17_6965.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\94_VI-shingles (11).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_003.png,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\72_BA-impetigo (85).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\32_VI-chickenpox (14).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_37_7916.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\114_VI-shingles (1).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\14_FU-ringworm (20).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (56).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\74_VI-shingles (30).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (52).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (34).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\9_VI-shingles (20).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (15).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\83_FU-ringworm (5).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\75_VI-chickenpox (19).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\infected_025.png,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\13_BA-impetigo (2).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\82_FU-ringworm (24).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\16_VI-chickenpox (3).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_64_1605.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\29_VI-shingles (10).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_65_1166.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_027.png,healthy
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\61_BA-impetigo (53).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_42_1770.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (86).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_013.png,healthy
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_002.png,healthy
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\147_VI-shingles (9).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (134).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_62_4659.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\110_VI-shingles (19).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_33_9125.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\115_VI-shingles (19).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (41).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (154).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_51_8623.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\152_VI-shingles (30).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\93_VI-chickenpox (12).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\61_FU-ringworm (69).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\59_VI-shingles (33).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\95_VI-chickenpox (3).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (88).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (58).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (87).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\145_VI-shingles (3).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_21_8209.jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (17).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (30).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (75).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\FU-athlete-foot (40).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\118_VI-shingles (23).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (32).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\89_FU-ringworm (40).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\61_VI-chickenpox (24).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\healthy_016.png,healthy
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\109_VI-chickenpox (19).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\BA- cellulitis (5).jpeg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\73_PA-cutaneous-larva-migrans (57).jpg,infected
-C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\_32_8718.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1314.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1842.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0238.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1295.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0047.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0242.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0684.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1378.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0897.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-386.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0415.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0705.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0530.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0279.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-253.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-070.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0500.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2301.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0842.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1275.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1411.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1510.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2439.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0610.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-719.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-459.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1024.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-448.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1256.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-571.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1620.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0279.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1468.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1083.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0769.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1014.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1257.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0552.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1797.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0723.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0470.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0092.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-560.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1763.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0736.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1054.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0379.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-772.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0042.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2380.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0686.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2261.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0172.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0296.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-127.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-320.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1379.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0043.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0208.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1432.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0638.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2543.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0833.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0082.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1461.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1022.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0864.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0190.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0378.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0021.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1583.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2078.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-442.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1085.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1477.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0812.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0371.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0550.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1027.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2438.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0099.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0160.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1896.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0732.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0280.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1589.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2306.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-185.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-713.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1910.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0383.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0371.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1158.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0577.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0091.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0498.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0888.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1504.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0168.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1236.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-192.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0187.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1855.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0053.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-152.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-275.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0508.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0638.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-561.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1126.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1891.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-469.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1301.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0166.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2317.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1936.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2136.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-717.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1395.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0950.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0870.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1555.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0707.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1657.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-107.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1014.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0115.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1335.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-151.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0110.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1023.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2505.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1381.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2590.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1894.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0541.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1520.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0712.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0212.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2405.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1850.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1769.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-661.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0132.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2359.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0090.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-383.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1408.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2364.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1592.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-746.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1302.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1231.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0606.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-517.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0070.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0197.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2223.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2522.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2503.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0944.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1090.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0817.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2174.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0930.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0594.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-520.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1483.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1687.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-234.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-616.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-187.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-084.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0642.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-236.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0078.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1144.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1234.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2623.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2637.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1661.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1092.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0223.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1220.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0395.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2628.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0038.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-064.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0927.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-237.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0426.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-087.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0936.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1562.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1492.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0809.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-024.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0943.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0362.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0114.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-534.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2595.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2284.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0640.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1531.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2242.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1941.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1632.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1820.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0041.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2366.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1769.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1136.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-240.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1125.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0924.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2437.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0063.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-339.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0271.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1963.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2324.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0667.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1345.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0302.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1846.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-495.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-150.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1052.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0093.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0268.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0444.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1716.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-340.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0615.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-573.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0025.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0660.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-405.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0629.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1615.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0714.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0833.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1748.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0856.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-115.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0423.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0165.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0993.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2417.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0531.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0222.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1878.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0687.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-425.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1629.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2087.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-607.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2198.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1427.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0185.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0890.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1822.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0731.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-288.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2014.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0454.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2519.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1630.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0953.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1011.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1973.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0111.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1065.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-325.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1434.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0130.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0484.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1331.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1758.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2413.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1207.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2551.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-109.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1315.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1901.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1718.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2609.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-114.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-488.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0339.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0137.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0687.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2289.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1499.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1593.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1823.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1103.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0468.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2368.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-656.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0218.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2361.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0460.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2235.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0560.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1650.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0854.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2588.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1354.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1807.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1183.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1865.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0853.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1463.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1876.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-749.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1383.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0640.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2608.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-624.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2155.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1319.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0162.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-525.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0953.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2125.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1628.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0853.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0394.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1780.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2527.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2375.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2035.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0819.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1689.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0588.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1626.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-581.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0663.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0771.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1511.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1904.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-411.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2392.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0893.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1897.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0675.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1569.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2565.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0198.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0811.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2508.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1431.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1236.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1441.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-726.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1754.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1330.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0009.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1987.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1920.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1829.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0787.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0969.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1692.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2663.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1171.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0603.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2231.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0550.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-684.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1912.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1179.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0623.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1520.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1578.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0409.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2015.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1351.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1825.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1658.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2241.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1929.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1966.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2183.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2308.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1484.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1596.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1285.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0949.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0242.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1399.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0770.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1031.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-451.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0815.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0651.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-430.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1757.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0140.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0902.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-494.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-301.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1001.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2052.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0601.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2161.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-184.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0347.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0717.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1265.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1639.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0986.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0923.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1111.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0159.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1877.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0289.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0693.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1635.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-166.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1937.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0837.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-201.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1663.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-362.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0540.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0374.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0215.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-584.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0138.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2546.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0457.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0399.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0305.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1830.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1175.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0304.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-455.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1659.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2278.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0064.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2180.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1133.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1537.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0357.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0393.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0180.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-188.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0053.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1395.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0219.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1582.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2304.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0814.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-336.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2209.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1037.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1443.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1188.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-327.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1636.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1435.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1657.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0587.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2093.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0510.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1469.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0266.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2402.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1382.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0016.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-013.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2564.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-193.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1572.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1113.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0105.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0548.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0624.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0738.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1292.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1917.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0028.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0722.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1510.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-062.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-756.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1072.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-134.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0442.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0011.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-722.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2151.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-042.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2268.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1049.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1005.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0471.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0593.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-591.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2146.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0146.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2604.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0396.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2452.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-344.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1286.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-663.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1559.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2434.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1695.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1283.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1329.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0916.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0179.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1437.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0168.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1404.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-153.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0160.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0956.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2277.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1826.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1390.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1921.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1580.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1450.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1500.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1281.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1618.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1015.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-659.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2644.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1479.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0710.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0352.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0765.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0898.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1260.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2186.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1050.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0094.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1921.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0173.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0619.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0756.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0616.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1206.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2594.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0980.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-321.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0538.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1610.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0148.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0228.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2114.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0285.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2482.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2625.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1137.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1907.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1686.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2532.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0563.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-724.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-579.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1656.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1342.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-235.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0517.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2131.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1928.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2184.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2547.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0910.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0376.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1853.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1093.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1217.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1413.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1320.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0004.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0523.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0090.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-493.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1985.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1379.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0836.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-458.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0365.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1029.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1524.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0059.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-392.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0888.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2545.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-293.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2036.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0512.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-028.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2661.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1117.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1007.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2409.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1848.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1883.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1867.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0387.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0587.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1573.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1144.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-449.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2614.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1991.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1435.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-415.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1932.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-714.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1809.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-165.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1427.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0175.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1828.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1349.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0708.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0900.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0051.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-047.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0402.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1745.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0367.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-466.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0029.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0890.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1755.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1734.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1756.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1471.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0766.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0679.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-431.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1932.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0447.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1743.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1229.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0709.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1599.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-270.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2305.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2140.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0858.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2367.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0680.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0509.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1304.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-247.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1958.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-043.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1377.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1416.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0503.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0589.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-342.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1513.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1775.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0955.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1654.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-657.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1337.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0342.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1741.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1733.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2404.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1600.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1571.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1934.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2294.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2117.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0213.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1972.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0752.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0352.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0006.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0734.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1527.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1470.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1398.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-211.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-485.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2139.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1328.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0455.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0186.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-741.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0901.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2185.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0232.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1819.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-129.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0194.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0560.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1724.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1687.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-067.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1888.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0507.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1045.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2648.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0241.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0671.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1952.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1047.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-056.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0647.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0673.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1924.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2578.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0336.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1542.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0777.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0222.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0483.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2343.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1922.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2251.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1970.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0537.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2051.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1289.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1747.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1712.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1324.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0192.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0358.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-617.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2365.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1365.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1777.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-774.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0584.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0613.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0120.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1087.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0060.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0911.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0695.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0271.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2050.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0345.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1127.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2659.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1860.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2204.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-406.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0708.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2252.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1916.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0031.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1872.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0241.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-658.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-440.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2195.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1823.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0156.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2658.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1544.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1538.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0071.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2299.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1768.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1710.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2397.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2652.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0763.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1138.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2499.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1418.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0868.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0791.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1548.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0089.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1597.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2107.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1946.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-504.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0875.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1402.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2635.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1151.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2013.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1102.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1487.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-268.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-480.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1914.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0480.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1808.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1498.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0248.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0926.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0905.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0525.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0054.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0161.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-646.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1979.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1561.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2005.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1127.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0309.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0636.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-059.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1509.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1287.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0716.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1977.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0774.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0320.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0461.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2345.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-360.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0883.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2680.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0266.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0535.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1778.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0074.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1851.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-048.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2200.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1138.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1056.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1411.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-180.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1105.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-552.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0776.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0199.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-381.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2603.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1792.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0566.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2097.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0292.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0672.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2453.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2037.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1735.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1697.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1309.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0805.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-704.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2634.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1175.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2247.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2329.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1649.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1423.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1559.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1430.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-164.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-652.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1259.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1841.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1190.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1248.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0665.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1104.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1801.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1839.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2520.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2550.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1433.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1884.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1751.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0473.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0001.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1696.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0965.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-171.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0360.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1476.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1766.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2163.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1881.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1323.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0480.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0593.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2335.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0178.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2016.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1081.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1100.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1811.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1707.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1546.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1547.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1230.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1101.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0341.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1563.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2618.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1394.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1864.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1951.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0534.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1303.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-546.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0598.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1002.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0262.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1355.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1792.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0021.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0799.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0419.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0449.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0865.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-098.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1064.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1728.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1172.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1475.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2476.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0778.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0125.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0409.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0253.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1389.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0322.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2199.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1719.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0905.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-394.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1631.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1752.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2472.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2134.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1492.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1613.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0163.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1828.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0110.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2326.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0513.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0506.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2537.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0976.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0972.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1853.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1295.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-123.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0889.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1626.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-600.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-733.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0257.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0767.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0150.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-035.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1396.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2491.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2010.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1243.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0223.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2627.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1356.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0349.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2458.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1129.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1271.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1235.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1518.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1025.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1926.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0276.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0981.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1538.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1969.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1185.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1373.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1679.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0786.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2559.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2401.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1353.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0500.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0539.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2524.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1455.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-742.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1121.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0412.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1737.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0520.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1365.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0553.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2092.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1908.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0408.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1247.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0488.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0114.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1255.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0761.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-291.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1323.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-046.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1491.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2426.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2165.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-649.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0388.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0772.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1253.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0554.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0728.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1585.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0024.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0372.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0903.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0189.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-264.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1293.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1640.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-673.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-214.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1904.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2228.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1346.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-258.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2060.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0196.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1680.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0488.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1684.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2049.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0863.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2008.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2084.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1703.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1835.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2215.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1489.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0144.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0738.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1923.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1267.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2265.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1996.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-633.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1480.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-398.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2597.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1875.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0914.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-0210.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2224.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-462.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1055.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-420.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0035.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0813.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-217.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-743.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0273.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1326.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1511.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1619.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0310.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0975.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2105.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1513.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1160.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-139.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-755.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-2463.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Female_normal-074.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1772.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1779.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1188.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-0298.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1186.jpg,infected
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\healthy\Male_Normal-1919.jpg,healthy
+C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml\data\raw\infected\wound_main-1238.jpg,infected

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef } from 'react';
 import {
   View,
   Text,
@@ -15,50 +15,80 @@ import * as ImagePicker from 'expo-image-picker';
 import { Ionicons } from '@expo/vector-icons';
 import { signOut } from 'firebase/auth';
 import { collection, addDoc } from 'firebase/firestore';
+import Constants from 'expo-constants';
 import { auth, db } from '../config/firebase';
 
-const BACKEND_URL = 'http://localhost:3000';
+// Use same host as Expo dev server so physical devices can reach your backend
+const getBackendUrl = () => {
+  const hostUri = Constants.expoConfig?.hostUri ?? Constants.manifest?.debuggerHost;
+  const host = hostUri ? hostUri.split(':')[0] : 'localhost';
+  return `http://${host}:3000`;
+};
+const BACKEND_URL = getBackendUrl();
 
 export default function MainScreen({ navigation }) {
   const [image, setImage] = useState(null);
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
+  const pickerInProgress = useRef(false);
 
   const pickImage = async () => {
+    if (pickerInProgress.current) return;
     setError(null);
-    const permission = await ImagePicker.requestMediaLibraryPermissionsAsync();
-    if (permission.status !== 'granted') {
-      Alert.alert('Permission Required', 'Permission to access gallery is required.');
-      return;
-    }
-    const pickerResult = await ImagePicker.launchImageLibraryAsync({
-      mediaTypes: ImagePicker.MediaTypeOptions.Images,
-      allowsEditing: true,
-      aspect: [1, 1],
-      quality: 0.8,
-    });
-    if (!pickerResult.canceled) {
-      setImage(pickerResult.assets[0]);
-      setResult(null);
+    pickerInProgress.current = true;
+    try {
+      const permission = await ImagePicker.requestMediaLibraryPermissionsAsync();
+      if (permission.status !== 'granted') {
+        Alert.alert('Permission Required', 'Permission to access gallery is required.');
+        return;
+      }
+      // Short delay so native picker can clean up after a previous open (fixes second-tap not opening)
+      await new Promise((r) => setTimeout(r, 100));
+      const pickerResult = await ImagePicker.launchImageLibraryAsync({
+        mediaTypes: ImagePicker.MediaTypeOptions.Images,
+        allowsEditing: true,
+        aspect: [1, 1],
+        quality: 0.8,
+      });
+      if (!pickerResult.canceled) {
+        setImage(pickerResult.assets[0]);
+        setResult(null);
+      }
+    } catch (err) {
+      console.error('Gallery error:', err);
+      const message = err?.message || String(err);
+      setError(message);
+      Alert.alert('Gallery Error', message);
+    } finally {
+      pickerInProgress.current = false;
     }
   };
 
+  const cameraInProgress = useRef(false);
+
   const takePhoto = async () => {
+    if (cameraInProgress.current) return;
     setError(null);
-    const permission = await ImagePicker.requestCameraPermissionsAsync();
-    if (permission.status !== 'granted') {
-      Alert.alert('Permission Required', 'Camera permission is required.');
-      return;
-    }
-    const cameraResult = await ImagePicker.launchCameraAsync({
-      allowsEditing: true,
-      aspect: [1, 1],
-      quality: 0.8,
-    });
-    if (!cameraResult.canceled) {
-      setImage(cameraResult.assets[0]);
-      setResult(null);
+    cameraInProgress.current = true;
+    try {
+      const permission = await ImagePicker.requestCameraPermissionsAsync();
+      if (permission.status !== 'granted') {
+        Alert.alert('Permission Required', 'Camera permission is required.');
+        return;
+      }
+      await new Promise((r) => setTimeout(r, 100));
+      const cameraResult = await ImagePicker.launchCameraAsync({
+        allowsEditing: true,
+        aspect: [1, 1],
+        quality: 0.8,
+      });
+      if (!cameraResult.canceled) {
+        setImage(cameraResult.assets[0]);
+        setResult(null);
+      }
+    } finally {
+      cameraInProgress.current = false;
     }
   };
 
@@ -91,7 +121,12 @@ export default function MainScreen({ navigation }) {
       });
       if (!res.ok) {
         const txt = await res.text();
-        throw new Error(`Backend error ${res.status}: ${txt}`);
+        let message = `Request failed (${res.status})`;
+        try {
+          const errData = JSON.parse(txt);
+          message = errData.error || errData.detail || message;
+        } catch (_) {}
+        throw new Error(message);
       }
       const data = await res.json();
       setResult(data);
@@ -129,6 +164,7 @@ export default function MainScreen({ navigation }) {
     setImage(null);
     setResult(null);
     setError(null);
+    setLoading(false);
   };
 
   const getRiskColor = (riskLevel) => {
@@ -142,7 +178,6 @@ export default function MainScreen({ navigation }) {
       <ScrollView
         contentContainerStyle={styles.scrollContent}
         showsVerticalScrollIndicator={false}
-        bounces={true}
       >
         <View style={styles.header}>
           <View>
@@ -233,7 +268,7 @@ export default function MainScreen({ navigation }) {
 
             <View style={[styles.riskBadge, { backgroundColor: `${getRiskColor(result.riskLevel)}20` }]}>
               <Text style={[styles.riskLevel, { color: getRiskColor(result.riskLevel) }]}>
-                {result.riskLevel} Risk
+                {result.riskLevel === 'healthy' ? 'Healthy' : 'Infected'}
               </Text>
             </View>
 
@@ -257,6 +292,16 @@ export default function MainScreen({ navigation }) {
                     {(result.probabilities.infected * 100).toFixed(1)}%
                   </Text>
                 </View>
+              </View>
+            )}
+
+            {result.quality && result.quality.issues && result.quality.issues.length > 0 && (
+              <View style={styles.qualityWarning}>
+                <Ionicons name="information-circle-outline" size={20} color="#FF9800" />
+                <Text style={styles.qualityWarningTitle}>Image quality note</Text>
+                {result.quality.issues.map((issue, i) => (
+                  <Text key={i} style={styles.qualityWarningText}>• {issue}</Text>
+                ))}
               </View>
             )}
           </View>
@@ -460,6 +505,27 @@ const styles = StyleSheet.create({
   probabilityValue: {
     fontSize: 18,
     fontWeight: 'bold',
+  },
+  qualityWarning: {
+    marginTop: 16,
+    padding: 12,
+    backgroundColor: '#FFF8E1',
+    borderRadius: 12,
+    borderLeftWidth: 4,
+    borderLeftColor: '#FF9800',
+  },
+  qualityWarningTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    color: '#E65100',
+    marginTop: 4,
+    marginBottom: 6,
+  },
+  qualityWarningText: {
+    fontSize: 13,
+    color: '#666',
+    marginLeft: 4,
+    marginBottom: 2,
   },
   errorCard: {
     backgroundColor: '#ffebee',

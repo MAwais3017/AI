@@ -18,11 +18,17 @@ export default function App() {
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (user) => {
       setUser(user);
-      if (initializing) setInitializing(false);
+      setInitializing(false);
     });
 
-    return unsubscribe;
-  }, [initializing]);
+    // Fallback: if Firebase doesn't respond in 3s, show app anyway (Login screen)
+    const timeout = setTimeout(() => setInitializing(false), 3000);
+
+    return () => {
+      unsubscribe();
+      clearTimeout(timeout);
+    };
+  }, []);
 
   if (initializing) {
     return (

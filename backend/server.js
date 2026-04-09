@@ -20,15 +20,42 @@ fastify.get('/health', async () => {
 });
 
 fastify.post('/image/quality-check', async (request, reply) => {
-  const file = await request.file();
+  const contentType = request.headers['content-type'] || request.headers['Content-Type'];
+  if (!contentType || !contentType.includes('multipart/form-data')) {
+    return reply.code(400).send({ error: 'Request must be multipart/form-data' });
+  }
+  let file;
+  try {
+    file = await request.file();
+  } catch (err) {
+    return reply.code(400).send({ error: 'Failed to parse file', detail: err.message });
+  }
   if (!file) {
     return reply.code(400).send({ error: 'Image file is required' });
   }
-
-  return {
-    quality: 'pass',
-    issues: [],
-  };
+  const buffer = await file.toBuffer();
+  const formData = new FormData();
+  formData.append('file', buffer, {
+    filename: file.filename || 'image.jpg',
+    contentType: file.mimetype || 'image/jpeg',
+  });
+  try {
+    const res = await fetch(`${PYTHON_SERVICE_URL}/quality-check`, {
+      method: 'POST',
+      body: formData,
+      headers: formData.getHeaders(),
+    });
+    if (!res.ok) {
+      const text = await res.text();
+      fastify.log.error(`Python quality-check error: ${res.status} ${text}`);
+      return reply.code(res.status).send({ error: 'Quality check failed', detail: text });
+    }
+    const data = await res.json();
+    return data;
+  } catch (err) {
+    fastify.log.error(err);
+    return reply.code(500).send({ error: 'Failed to contact Python service' });
+  }
 });
 
 fastify.post('/image/predict', async (request, reply) => {
@@ -81,7 +108,12 @@ fastify.post('/image/predict', async (request, reply) => {
     if (!res.ok) {
       const text = await res.text();
       fastify.log.error(`Python service error: ${res.status} ${text}`);
-      return reply.code(500).send({ error: 'Python service error', detail: text });
+      let message = text;
+      try {
+        const body = JSON.parse(text);
+        message = body.detail || body.error || message;
+      } catch (_) {}
+      return reply.code(res.status).send({ error: message });
     }
 
     const data = await res.json();
