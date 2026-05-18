@@ -124,7 +124,14 @@ export default function MainScreen({ navigation }) {
         let message = `Request failed (${res.status})`;
         try {
           const errData = JSON.parse(txt);
-          message = errData.error || errData.detail || message;
+          const detail = errData.detail;
+          if (typeof detail === 'string') {
+            message = detail;
+          } else if (Array.isArray(detail) && detail[0]?.msg) {
+            message = detail.map((d) => d.msg).join(' ');
+          } else {
+            message = errData.error || detail || message;
+          }
         } catch (_) {}
         throw new Error(message);
       }
@@ -168,8 +175,11 @@ export default function MainScreen({ navigation }) {
   };
 
   const getRiskColor = (riskLevel) => {
-    if (riskLevel === 'Low' || riskLevel === 'Healthy') return '#4CAF50';
-    if (riskLevel === 'Medium' || riskLevel === 'Moderate') return '#FF9800';
+    if (!riskLevel) return '#666';
+    const r = String(riskLevel).toLowerCase();
+    if (r === 'low' || r === 'healthy') return '#4CAF50';
+    if (r === 'medium' || r === 'moderate') return '#FF9800';
+    if (r === 'infected' || r === 'high') return '#F44336';
     return '#F44336';
   };
 

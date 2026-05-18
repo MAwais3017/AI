@@ -23,6 +23,7 @@ from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 
 from scripts.quality import check_quality
+from scripts.relevance import RELEVANCE_MSG, check_relevance
 
 BASE_DIR = Path(__file__).resolve().parents[1]
 PROCESSED_DIR = BASE_DIR / "data" / "processed"
@@ -31,7 +32,6 @@ IMG_SIZE = 64
 
 # Reject only when blur is very extreme (e.g. bokeh); real wound photos often have moderate blur
 RELEVANCE_MIN_BLUR = 15.0
-RELEVANCE_MSG = "Image does not appear relevant for wound assessment. Please upload a clear image of a wound or affected skin area."
 
 
 def preprocess_for_model(img: np.ndarray, denoise: bool = False) -> np.ndarray:
@@ -108,6 +108,13 @@ async def predict(file: UploadFile = File(...)):
     contents = await file.read()
     img = _decode_image(contents)
 
+    relevance_result = check_relevance(img)
+    if not relevance_result["pass"]:
+        raise HTTPException(
+            status_code=400,
+            detail=relevance_result.get("message") or RELEVANCE_MSG,
+        )
+
     quality_result = check_quality(img)
     blur_score = quality_result.get("details", {}).get("blur_score", 999.0)
     if blur_score < RELEVANCE_MIN_BLUR:
@@ -115,8 +122,7 @@ async def predict(file: UploadFile = File(...)):
 
     features = preprocess_for_model(img, denoise=False)
     probs = model.predict_proba(features)[0]
-    labels: list[Literal["healthy", "infected"]] = ["healthy", "infected"]
-    
+
     infected_prob = float(probs[1])
     healthy_prob = float(probs[0])
     max_prob = max(healthy_prob, infected_prob)
@@ -125,21 +131,21 @@ async def predict(file: UploadFile = File(...)):
     if max_prob < 0.6:
         raise HTTPException(status_code=400, detail=RELEVANCE_MSG)
 
-    # Use a higher threshold to reduce false positives (require 75% confidence for "infected")
-    # Only predict "infected" if confidence is high enough, otherwise default to "healthy"
-    if infected_prob >= 0.75:
-        risk_label = "infected"
-    else:
+    # riskLevel must match the displayed probabilities (higher class wins). A fixed "infected
+    # only if >= 75%" rule caused the badge to say Healthy while Infected had the higher %.
+    if infected_prob > healthy_prob:
+        risk_label: Literal["healthy", "infected"] = "infected"
+    elif healthy_prob > infected_prob:
         risk_label = "healthy"
+    else:
+        risk_label = "infected"  # exact tie: cautious default
     
     # Generate recommendation based on risk level and probability
     if risk_label == "infected":
         if infected_prob >= 0.8:
             recommendation = "Urgent: Please visit a hospital or healthcare provider immediately for proper diagnosis and treatment."
-        elif infected_prob >= 0.5:
-            recommendation = "Recommended: Consult a healthcare provider soon. Monitor the wound closely for any worsening symptoms."
         else:
-            recommendation = "Caution: Signs of possible infection detected. Consider consulting a healthcare provider if symptoms persist or worsen."
+            recommendation = "Recommended: Consult a healthcare provider soon. Monitor the wound closely for any worsening symptoms."
     else:
         recommendation = "Good: Wound appears healthy. Continue monitoring and maintain proper wound care. Consult a doctor if you notice any changes."
 
