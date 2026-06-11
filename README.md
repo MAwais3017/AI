@@ -13,7 +13,9 @@ This project implements your FYP idea:
   - `data/raw/infected` – put images of infected wounds here
   - `data/processed` – generated CSVs and trained model
   - `scripts/prepare_dataset.py` – builds train/val CSVs
-  - `scripts/train_model.py` – trains a RandomForest classifier
+  - `scripts/extract_features.py` – color/texture/edge feature extraction
+  - `scripts/train_model.py` – trains RandomForest on extracted features
+  - `scripts/train_mlp.py` – compares RF (features) vs MLP (pixels) for FYP report
   - `scripts/inference_service.py` – FastAPI prediction service
 
 ## 1. Setup Python ML environment
@@ -45,7 +47,17 @@ cd "C:\Users\M. Owais Dogar\OneDrive\Desktop\AI\ml"
 venv\Scripts\python.exe scripts/train_model.py
 ```
 
-This trains a **RandomForest** classifier on simple grayscale image features and saves `data/processed/model.joblib`.
+This extracts **tabular wound features** (color, redness, texture, edges) from each image, then trains a **Random Forest** classifier. Saves `data/processed/model.joblib`.
+
+**Compare with MLP (for FYP report):**
+
+```bash
+venv\Scripts\python.exe scripts/train_mlp.py
+```
+
+Prints validation accuracy for Random Forest (features) vs MLP (pixels).
+
+**After retraining, restart the inference service** so the app loads the new model.
 
 ## 4. Run the Python inference API
 
