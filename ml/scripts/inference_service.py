@@ -1,7 +1,7 @@
 r"""
 FastAPI service for wound infection prediction.
 
-Loads the trained model from data/processed/model.joblib and exposes:
+Loads the trained model bundle from data/processed/model.joblib (Random Forest on extracted features).
   - POST /predict
     - body: multipart file "file" (image)
     - returns: riskLevel (healthy / infected) + probability estimate + quality
@@ -22,32 +22,23 @@ import numpy as np
 from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 
+from scripts.extract_features import extract_features
 from scripts.quality import check_quality
 from scripts.relevance import RELEVANCE_MSG, check_relevance
 
 BASE_DIR = Path(__file__).resolve().parents[1]
 PROCESSED_DIR = BASE_DIR / "data" / "processed"
 MODEL_PATH = PROCESSED_DIR / "model.joblib"
-IMG_SIZE = 64
 
 # Reject only when blur is very extreme (e.g. bokeh); real wound photos often have moderate blur
 RELEVANCE_MIN_BLUR = 15.0
 
 
-def preprocess_for_model(img: np.ndarray, denoise: bool = False) -> np.ndarray:
-    """
-    Preprocess image for the trained model: optional denoise, resize, grayscale, flatten.
-    Must match training pipeline (train_model.py).
-    """
-    if img is None or img.size == 0:
-        raise ValueError("Invalid image")
-    if denoise and len(img.shape) == 3:
-        img = cv2.fastNlMeansDenoisingColored(img, None, h=6, hForColorComponents=6, templateWindowSize=7, searchWindowSize=21)
-    elif denoise and len(img.shape) == 2:
-        img = cv2.fastNlMeansDenoising(img, None, h=10, templateWindowSize=7, searchWindowSize=21)
-    img = cv2.resize(img, (IMG_SIZE, IMG_SIZE))
-    img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    return img.flatten().reshape(1, -1)
+def features_for_model(img: np.ndarray, bundle: dict) -> np.ndarray:
+    """Extract and scale features using the saved training pipeline."""
+    raw = extract_features(img).reshape(1, -1)
+    scaler = bundle["scaler"]
+    return scaler.transform(raw)
 
 app = FastAPI(title="Wound Infection Classifier")
 
@@ -63,7 +54,12 @@ app.add_middleware(
 def load_model():
     if not MODEL_PATH.exists():
         raise RuntimeError(f"Model file not found at {MODEL_PATH}. Train the model first.")
-    return joblib.load(MODEL_PATH)
+    bundle = joblib.load(MODEL_PATH)
+    if isinstance(bundle, dict) and bundle.get("type") == "rf_features":
+        return bundle
+    raise RuntimeError(
+        "Old pixel-based model found. Retrain with: venv\\Scripts\\python.exe scripts/train_model.py"
+    )
 
 
 model = None
@@ -120,8 +116,9 @@ async def predict(file: UploadFile = File(...)):
     if blur_score < RELEVANCE_MIN_BLUR:
         raise HTTPException(status_code=400, detail=RELEVANCE_MSG)
 
-    features = preprocess_for_model(img, denoise=False)
-    probs = model.predict_proba(features)[0]
+    features = features_for_model(img, model)
+    clf = model["classifier"]
+    probs = clf.predict_proba(features)[0]
 
     infected_prob = float(probs[1])
     healthy_prob = float(probs[0])

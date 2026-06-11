@@ -15,6 +15,18 @@ import { createUserWithEmailAndPassword } from 'firebase/auth';
 import { doc, setDoc } from 'firebase/firestore';
 import { auth, db } from '../config/firebase';
 
+const SPECIAL_CHAR_REGEX = /[!@#$%^&*()_+\-=[\]{};':"\\|,.<>/?`~]/;
+
+const validatePassword = (password) => {
+  if (password.length < 8) {
+    return 'Password must be at least 8 characters long';
+  }
+  if (!SPECIAL_CHAR_REGEX.test(password)) {
+    return 'Password must contain at least one special character (e.g. ! @ # $ %)';
+  }
+  return null;
+};
+
 export default function SignupScreen({ navigation }) {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
@@ -35,8 +47,9 @@ export default function SignupScreen({ navigation }) {
       return;
     }
     
-    if (password.length < 6) {
-      setError('Password must be at least 6 characters long');
+    const passwordError = validatePassword(password);
+    if (passwordError) {
+      setError(passwordError);
       return;
     }
     
@@ -93,7 +106,7 @@ export default function SignupScreen({ navigation }) {
             errorMessage = 'Invalid email address. Please check your email and try again.';
             break;
           case 'auth/weak-password':
-            errorMessage = 'Password is too weak. Please use a stronger password (at least 6 characters).';
+            errorMessage = 'Password is too weak. Use at least 8 characters and one special character.';
             break;
           case 'auth/network-request-failed':
             errorMessage = 'Network error. Please check your internet connection and try again.';
@@ -181,6 +194,9 @@ export default function SignupScreen({ navigation }) {
                   autoCapitalize="none"
                   autoComplete="password-new"
                 />
+                <Text style={styles.hintText}>
+                  At least 8 characters with one special character (! @ # $ % etc.)
+                </Text>
               </View>
 
               <View style={styles.inputContainer}>
@@ -292,6 +308,11 @@ const styles = StyleSheet.create({
     borderWidth: 1.5,
     borderColor: '#D0E8F2',
     color: '#1a1a1a',
+  },
+  hintText: {
+    fontSize: 12,
+    color: '#888',
+    marginTop: 6,
   },
   button: {
     borderRadius: 12,
